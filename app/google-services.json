@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "642575354033",
+    "project_id": "routequest-4f4a3",
+    "storage_bucket": "routequest-4f4a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642575354033:android:10d090b5a4805d9402fa90",
+        "android_client_info": {
+          "package_name": "com.example.routequest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuSNM7xdoWebbi-mYSKqGMjRM9k-1JW9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
