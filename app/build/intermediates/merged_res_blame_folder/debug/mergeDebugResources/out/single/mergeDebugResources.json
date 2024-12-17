@@ -1,0 +1,158 @@
+[
+    {
+        "merged": "com.example.routequest.app-debug-61:/mipmap-mdpi_ic_routequest_launcher_logo_f_round.webp.flat",
+        "source": "com.example.routequest.app-main-63:/mipmap-mdpi/ic_routequest_launcher_logo_f_round.webp"
+    },
+    {
+        "merged": "com.example.routequest.app-debug-61:/drawable_sunny.xml.flat",
+        "source": "com.example.routequest.app-main-63:/drawable/sunny.xml"
+    },
+    {
+        "merged": "com.example.routequest.app-debug-61:/drawable_login_background.png.flat",
+        "source": "com.example.routequest.app-main-63:/drawable/login_background.png"
+    },
+    {
+        "merged": "com.example.routequest.app-debug-61:/drawable_ubicacion.xml.flat",
+        "source": "com.example.routequest.app-main-63:/drawable/ubicacion.xml"
+    },
+    {
+        "merged": "com.example.routequest.app-debug-61:/mipmap-xhdpi_ic_routequest_launcher_logo_f_round.webp.flat",
+        "source": "com.example.routequest.app-main-63:/mipmap-xhdpi/ic_routequest_launcher_logo_f_round.webp"
+    },
+    {
+        "merged": "com.example.routequest.app-debug-61:/mipmap-xxhdpi_ic_routequest_launcher_logo_f.webp.flat",
+        "source": "com.example.routequest.app-main-63:/mipmap-xxhdpi/ic_routequest_launcher_logo_f.webp"
+    },
+    {
+        "merged": "com.example.routequest.app-debug-61:/drawable_my_location_24px.xml.flat",
+        "source": "com.example.routequest.app-main-63:/drawable/my_location_24px.xml"
+    },
+    {
+        "merged": "com.example.routequest.app-debug-61:/mipmap-xhdpi_ic_routequest_launcher_logo_f.webp.flat",
+        "source": "com.example.routequest.app-main-63:/mipmap-xhdpi/ic_routequest_launcher_logo_f.webp"
+    },
+    {
+        "merged": "com.example.routequest.app-debug-61:/drawable_snow.xml.flat",
+        "source": "com.example.routequest.app-main-63:/drawable/snow.xml"
+    },
+    {
+        "merged": "com.example.routequest.app-debug-61:/drawable_nublado.png.flat",
+        "source": "com.example.routequest.app-main-63:/drawable/nublado.png"
+    },
+    {
+        "merged": "com.example.routequest.app-debug-61:/xml_backup_rules.xml.flat",
+        "source": "com.example.routequest.app-main-63:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.routequest.app-debug-61:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.routequest.app-main-63:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.routequest.app-debug-61:/drawable_ic_routequest_launcher_logo_f_foreground.xml.flat",
+        "source": "com.example.routequest.app-main-63:/drawable/ic_routequest_launcher_logo_f_foreground.xml"
+    },
+    {
+        "merged": "com.example.routequest.app-debug-61:/drawable_sunny_cloudy.xml.flat",
+        "source": "com.example.routequest.app-main-63:/drawable/sunny_cloudy.xml"
+    },
+    {
+        "merged": "com.example.routequest.app-debug-61:/drawable_baseline_navigation_24.xml.flat",
+        "source": "com.example.routequest.app-main-63:/drawable/baseline_navigation_24.xml"
+    },
+    {
+        "merged": "com.example.routequest.app-debug-61:/mipmap-anydpi-v26_ic_routequest_launcher_logo_f_round.xml.flat",
+        "source": "com.example.routequest.app-main-63:/mipmap-anydpi-v26/ic_routequest_launcher_logo_f_round.xml"
+    },
+    {
+        "merged": "com.example.routequest.app-debug-61:/mipmap-xxhdpi_ic_routequest_launcher_logo_f_round.webp.flat",
+        "source": "com.example.routequest.app-main-63:/mipmap-xxhdpi/ic_routequest_launcher_logo_f_round.webp"
+    },
+    {
+        "merged": "com.example.routequest.app-debug-61:/drawable_wind.xml.flat",
+        "source": "com.example.routequest.app-main-63:/drawable/wind.xml"
+    },
+    {
+        "merged": "com.example.routequest.app-debug-61:/mipmap-hdpi_ic_routequest_launcher_logo_f_round.webp.flat",
+        "source": "com.example.routequest.app-main-63:/mipmap-hdpi/ic_routequest_launcher_logo_f_round.webp"
+    },
+    {
+        "merged": "com.example.routequest.app-debug-61:/mipmap-xxxhdpi_ic_routequest_launcher_logo_f.webp.flat",
+        "source": "com.example.routequest.app-main-63:/mipmap-xxxhdpi/ic_routequest_launcher_logo_f.webp"
+    },
+    {
+        "merged": "com.example.routequest.app-debug-61:/drawable_flecha.xml.flat",
+        "source": "com.example.routequest.app-main-63:/drawable/flecha.xml"
+    },
+    {
+        "merged": "com.example.routequest.app-debug-61:/drawable_brujula.png.flat",
+        "source": "com.example.routequest.app-main-63:/drawable/brujula.png"
+    },
+    {
+        "merged": "com.example.routequest.app-debug-61:/drawable_logo_background.xml.flat",
+        "source": "com.example.routequest.app-main-63:/drawable/logo_background.xml"
+    },
+    {
+        "merged": "com.example.routequest.app-debug-61:/drawable_nieve.jpg.flat",
+        "source": "com.example.routequest.app-main-63:/drawable/nieve.jpg"
+    },
+    {
+        "merged": "com.example.routequest.app-debug-61:/drawable_lluvia2.png.flat",
+        "source": "com.example.routequest.app-main-63:/drawable/lluvia2.png"
+    },
+    {
+        "merged": "com.example.routequest.app-debug-61:/drawable_baseline_location_on_24.xml.flat",
+        "source": "com.example.routequest.app-main-63:/drawable/baseline_location_on_24.xml"
+    },
+    {
+        "merged": "com.example.routequest.app-debug-61:/drawable_fog.jpg.flat",
+        "source": "com.example.routequest.app-main-63:/drawable/fog.jpg"
+    },
+    {
+        "merged": "com.example.routequest.app-debug-61:/drawable_centrar_ruta.xml.flat",
+        "source": "com.example.routequest.app-main-63:/drawable/centrar_ruta.xml"
+    },
+    {
+        "merged": "com.example.routequest.app-debug-61:/drawable_soleado.png.flat",
+        "source": "com.example.routequest.app-main-63:/drawable/soleado.png"
+    },
+    {
+        "merged": "com.example.routequest.app-debug-61:/drawable_circulo.xml.flat",
+        "source": "com.example.routequest.app-main-63:/drawable/circulo.xml"
+    },
+    {
+        "merged": "com.example.routequest.app-debug-61:/drawable_storm.xml.flat",
+        "source": "com.example.routequest.app-main-63:/drawable/storm.xml"
+    },
+    {
+        "merged": "com.example.routequest.app-debug-61:/mipmap-hdpi_ic_routequest_launcher_logo_f.webp.flat",
+        "source": "com.example.routequest.app-main-63:/mipmap-hdpi/ic_routequest_launcher_logo_f.webp"
+    },
+    {
+        "merged": "com.example.routequest.app-debug-61:/drawable_app_background.png.flat",
+        "source": "com.example.routequest.app-main-63:/drawable/app_background.png"
+    },
+    {
+        "merged": "com.example.routequest.app-debug-61:/mipmap-xxxhdpi_ic_routequest_launcher_logo_f_round.webp.flat",
+        "source": "com.example.routequest.app-main-63:/mipmap-xxxhdpi/ic_routequest_launcher_logo_f_round.webp"
+    },
+    {
+        "merged": "com.example.routequest.app-debug-61:/mipmap-mdpi_ic_routequest_launcher_logo_f.webp.flat",
+        "source": "com.example.routequest.app-main-63:/mipmap-mdpi/ic_routequest_launcher_logo_f.webp"
+    },
+    {
+        "merged": "com.example.routequest.app-debug-61:/drawable_rain_light.xml.flat",
+        "source": "com.example.routequest.app-main-63:/drawable/rain_light.xml"
+    },
+    {
+        "merged": "com.example.routequest.app-debug-61:/mipmap-anydpi-v26_ic_routequest_launcher_logo_f.xml.flat",
+        "source": "com.example.routequest.app-main-63:/mipmap-anydpi-v26/ic_routequest_launcher_logo_f.xml"
+    },
+    {
+        "merged": "com.example.routequest.app-debug-61:/drawable_cloudy.xml.flat",
+        "source": "com.example.routequest.app-main-63:/drawable/cloudy.xml"
+    },
+    {
+        "merged": "com.example.routequest.app-debug-61:/drawable_logo_no_background.xml.flat",
+        "source": "com.example.routequest.app-main-63:/drawable/logo_no_background.xml"
+    }
+]

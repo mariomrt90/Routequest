@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="blue">#0211FC</color>
+    <color name="dark_blue">#0F1934</color>
+    <color name="green">#019970</color>
+    <color name="grey">#7D888E</color>
+    <color name="ic_routequest_launcher_logo5_background">#0F1934</color>
+    <color name="ic_routequest_launcher_logo_f_background">#0F1934</color>
+    <color name="light_gray">#F3F3F3</color>
+    <color name="light_green">#CCEBE2</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="api_error_300">Error del servidor por modificaciones en este</string>
+    <string name="api_error_400">Error de petición al servidor</string>
+    <string name="api_error_500">Error del servidor</string>
+    <string name="api_no_data_recieved">Error del servidor, no se han recibido datos</string>
+    <string name="api_request_current_temperature">temperature_2m</string>
+    <string name="api_request_current_weather_code">weather_code</string>
+    <string name="api_request_current_wind_direction">wind_direction_10m</string>
+    <string name="api_request_current_wind_speed">wind_speed_10m</string>
+    <string name="api_request_daily_max_temperature">temperature_2m_max</string>
+    <string name="api_request_daily_max_wind_speed">wind_speed_10m_max</string>
+    <string name="api_request_daily_min_temperature">temperature_2m_min</string>
+    <string name="api_request_daily_weather_code">weather_code</string>
+    <string name="api_request_daily_wind_direction_dominant">wind_direction_10m_dominant</string>
+    <string name="app_name">Routequest</string>
+    <string name="app_title">Routequest</string>
+    <string name="auth_alertdialog_title">¡Permiso importante!</string>
+    <string name="auth_allow_location">Permitir</string>
+    <string name="auth_location_alert_base_body">Los siguientes permisos son necesarios para el correcto funcionamiento de la aplicación: \n</string>
+    <string name="auth_location_body_location_missing">-Acceso a la ubicación del dispositivo.</string>
+    <string name="auth_location_body_precise_location_missing">-Acceso a la ubicación precisa del dispositivo. (Recomendado)</string>
+    <string name="auth_location_rejected_message">Permisos rechazados: algunas funcionalidades no estarán disponibles</string>
+    <string name="button_text_cancel">Cancelar</string>
+    <string name="button_text_start">Empezar</string>
+    <string name="climate_api_base_url">https://api.open-meteo.com/</string>
+    <string name="climate_api_error">Error de conexión.</string>
+    <string name="climate_cloud">Nublado</string>
+    <string name="climate_rain">Lluvia</string>
+    <string name="climate_snow">Nieve</string>
+    <string name="climate_storm">Tormenta</string>
+    <string name="climate_sun_cloud">Nubes y sol</string>
+    <string name="climate_sunny">Soleado</string>
+    <string name="climate_temp_max">"T.Max: "</string>
+    <string name="climate_temp_min_text">"T.Min: "</string>
+    <string name="climate_title">Previsión del tiempo</string>
+    <string name="climate_today_card_title">Hoy</string>
+    <string name="climate_wind">Viento</string>
+    <string name="climate_wind_direction">"Dir. viento: "</string>
+    <string name="climate_wind_speed_text">"Vel. viento: "</string>
+    <string name="content_description_login_backgroud">The login screen\'s background image</string>
+    <string name="content_description_logo_nobackg">This app\'s logo with no background</string>
+    <string name="correct_login">: Inicio de sesión correcto</string>
+    <string name="create_account">Crear cuenta</string>
+    <string name="database_exception_aborted">Error de la base de datos, conexión abortada</string>
+    <string name="database_exception_data_loss">Error en la base de datos, datos corruptos</string>
+    <string name="database_exception_failed_precondition">Error del sistema</string>
+    <string name="database_exception_internal">Error interno de la base de datos</string>
+    <string name="database_exception_not_found">Error en la base de datos, no se han encontrado datos</string>
+    <string name="database_exception_other_exceptions">Error de la base de datos</string>
+    <string name="database_exception_unavailable">Error de conexión, por favor, revise su conexión a internet</string>
+    <string name="database_exception_unknown">Error desconocido</string>
+    <string name="empty_login">Error: el campo del email o de la contraseña están vacíos</string>
+    <string name="gcm_defaultSenderId" translatable="false">642575354033</string>
+    <string name="google_api_key" translatable="false">AIzaSyDuSNM7xdoWebbi-mYSKqGMjRM9k-1JW9I</string>
+    <string name="google_app_id" translatable="false">1:642575354033:android:10d090b5a4805d9402fa90</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDuSNM7xdoWebbi-mYSKqGMjRM9k-1JW9I</string>
+    <string name="google_storage_bucket" translatable="false">routequest-4f4a3.appspot.com</string>
+    <string name="input_text_error_text">Error de creación de usuario. El email tiene que ser uno válido y la contraseña tener de 8 a 20 caracteres.</string>
+    <string name="location_alert_text">El permiso de esta app para acceder a la ubicación se encuentra denegado, por lo que no se mostrará su ubicación. Si quiere que esto no ocurra, acceda a ajustes, conceda a esta aplicación acceso a la ubicación del dispositivo y reinicie la aplicación</string>
+    <string name="location_on_description">Icon for marking a certain point in a map</string>
+    <string name="login_button_text">Iniciar sesión</string>
+    <string name="login_db_error">Error de conexión con la base de datos</string>
+    <string name="logout_text">Cerrar sesión</string>
+    <string name="main_menu_climate_text">Ver Clima</string>
+    <string name="main_menu_records_text">Mis Records</string>
+    <string name="mainmenu_auth_null_message">Error de conexión con base de datos. \n Por favor, compruebe su conexión a internet</string>
+    <string name="mainmenu_title">Menu Principal</string>
+    <string name="mainmenu_welcome">"Bienvenido "</string>
+    <string name="map_button_pause">Pausar</string>
+    <string name="map_center_on_location_icon_description">Icon for setting the center of the map to the device current location</string>
+    <string name="map_dialog_goto_settings">Ir a ajustes</string>
+    <string name="map_distance_unit_km">" Km"</string>
+    <string name="map_end_route_button">Completar ruta</string>
+    <string name="map_marker_final_title">Final</string>
+    <string name="map_marker_start_title">Inicio</string>
+    <string name="map_permission_rejected">Permiso rechazado</string>
+    <string name="map_route_completed">Ruta completada correctamente</string>
+    <string name="map_route_finish_error">Error al guardar la sesión</string>
+    <string name="map_speed_unit_kmh">" Km/h"</string>
+    <string name="pause_dialog_quit_button">Abandonar</string>
+    <string name="pause_dialog_quitted">Ruta abandonada</string>
+    <string name="pause_dialog_resume">Reanudar</string>
+    <string name="pause_dialog_text">El recorrido de la ruta ha sido pausado, ¿desea reanudar o abandonar la ruta?</string>
+    <string name="pause_dialog_title">Ruta pausada</string>
+    <string name="project_id" translatable="false">routequest-4f4a3</string>
+    <string name="register_button_text">Registrarse</string>
+    <string name="register_email_in_use">Este email ya está registrado</string>
+    <string name="return_button_text">Volver</string>
+    <string name="title_activity_consult_records">ConsultRecordsActivity</string>
+    <string name="title_activity_main_menu">MainMenuActivity</string>
+    <string name="title_activity_map">MapActivity</string>
+    <string name="title_activity_overlay">OverlayActivity</string>
+    <string name="title_activity_pause_dialog">PauseDialogActivity</string>
+    <string name="title_activity_route_preview">RoutePreviewActivity</string>
+    <style name="Theme.Routequest" parent="android:Theme.Material.Light.NoActionBar"/>
+</resources>
